@@ -69,7 +69,7 @@ return(
           <img className="logs" src={logo} alt='logo'/>
         </div>
         <div className="login-main-text d-flex flex-row-reverse">
-          <div className="col-md-9">
+          <div className="col-md-9 p-1">
             <h1>Sistema de Controle de Estoque Web</h1>
           </div>
         </div>
