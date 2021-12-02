@@ -1,0 +1,30 @@
+aside.menu-area{
+    background-color: var(--bg-dark);
+}
+
+.fundo {
+    background-color: var(--bg-dark);
+    color: white;
+}
+.menu a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-weight: 500;
+}
+
+.menu a i{
+    margin-right: 8px;
+}
+
+.menu a:hover{
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #3f87a6);
+}
+
+.logout {
+    width: 225px;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+}
