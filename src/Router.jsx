@@ -17,7 +17,7 @@ export default function mainRoutes(){
     return(
     <Routes>
         <Route path='/login' element={<Login/>}/>
-        <Route path='/home' element={<Home/>}/>
+        <Route path='/' element={<Home/>}/>
         <Route path='/buscaentradas' element={<BuscaEntradas/>}/>
         <Route path='/cadastraradmin' element={<FormularioAdmin/>}/>
         <Route path='/create' element={<Cadastrar/>}/>
