@@ -26,7 +26,15 @@ nav footer
       <li><b>firebaseConfig.js</b> - Give the data needed to access firebase project</li>
     </ul>
   </li>
-  <li>Item</li>
-  <li>Item</li>
-  <li>Item</li>
+  <li><b>./src/components/</b>
+    <ul>
+      <li><b>autocomplete</b> - Contains all modules and API for the import of Autocomplete</li>
+      <li><b>create</b> - All functions to create an: user, entrance, provider, item and make a takeout</li>
+      <li><b>edit</b> - Edit a entrance</li>
+      <li><b>home</b> - Components to be render at home</li>
+      <li><b>item</b> - Item functions</li>
+      <li><b>lista</b> - List of entrances, provider and item</li>
+      <li><b>template</b> - Contains components to be render at App.js: content, footer, header, logo and nav</li>
+    </ul>
+  </li>
 </ul>
